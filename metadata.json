@@ -1,0 +1,6 @@
+{
+  "name": "Tín Ngưỡng Văn Minh",
+  "description": "Ứng dụng tra cứu và tư vấn pháp luật thực hành tín ngưỡng văn minh, bài trừ mê tín dị đoan theo quy định pháp luật Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
